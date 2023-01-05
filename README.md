@@ -12,8 +12,7 @@
 
   ![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)：guojin_yjs@cumt.edu.cn
 
-
- <div align=center><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=tokyonight" height=200/></span><span><img src="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=tokyonight" height=200/></span></div>
+ <div align=center><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=tokyonight" height=180/></span></div>
 
 
 
