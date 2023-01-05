@@ -93,7 +93,9 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guojin-yan&theme=tokyo-night)
 
-<div align=center><span><img src="https://github-readme-streak-stats.herokuapp.com/?user=guojin-yan&theme=dark" height=180/></span><span><img src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark" height=180/></div>
+<div align=center><span><img src="https://github-readme-streak-stats.herokuapp.com/?user=guojin-yan&theme=dark" height=250/></span></div>
+
+<div align=center><span><img src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark" height=180/></span><span><img src="https://stats.justsong.cn/api/juejin?id=1561767867056414&theme=dark" height=180/></div>
 
 
 
