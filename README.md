@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0A222D&width=800&height=80&lines=Hello+Github+World+!+!+!;Welcome+to+my+homepage%EF%BC%8Cvisitors+!+!+!)](https://git.io/typing-svg)
+
 # 👋 Hi, I’m [Yan Guojin](https://github.com/guojin-yan)！！
 ## Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/guojin-yan/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
@@ -5,7 +7,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=tokyonight)
 
+![](https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark)
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=tokyo-night)
 
 - 👀 I am interested in the deployment of in-depth learning models on different platforms. At present, I have contacted and skillfully used Intel OpenVINO, Paddle Inference, NVIDIA TensorRT, ONNX runtime, OpenCV DNN and other model deployment methods, and I am committed to promoting the use of Intel OpenVINO, Paddle Inference, NVIDIA TensorRT in C # platforms.
 - 🌱 I’m currently learning how to deploy Intel OpenVINO, Paddle Conference and NVIDIA TensorRT on the C # platform, and how to deploy PaddlePaddle models in OpenVINO based on PaddlePaddle model library.
