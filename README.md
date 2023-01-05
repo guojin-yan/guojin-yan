@@ -19,78 +19,66 @@
 
 - 🚀 I use programming language daily:
 
-  [![](https://img.shields.io/badge/-Python-FF942C?logo=python&logoColor=00)]()
-
-  [![C++ (shields.io)](https://img.shields.io/badge/-C++-3B45D4?logo=cplusplus&logoColor=00)]()
-
-  [![C Sharp (shields.io)](https://img.shields.io/badge/-C%20Sharp-7500E3?logo=csharp&logoColor=1)]()
+  <div align=center><span><img src="https://img.shields.io/badge/-Python-FF942C?logo=python&logoColor=00" height=30/></span><span><img src="https://img.shields.io/badge/-C++-3B45D4?logo=cplusplus&logoColor=00" height=30/></span><span><img src="https://img.shields.io/badge/-C%20Sharp-7500E3?logo=csharp&logoColor=1" height=30/></span></div>
 
 - 🚀 I work usingdaily:
 
-  [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-6A1FBF?logo=visualstudio&logoColor=1)]()
+  <div align=center><span><img src="https://img.shields.io/badge/-Visual%20Studio-6A1FBF?logo=visualstudio&logoColor=1" height=30/></span><span><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code" height=30/></span><span><img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043" height=30/></span><span><img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github" height=30/></span><span><img src="https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061" height=30/></span></div>
 
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
-
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
-
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()[![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)]()
+  
 
   
 
 
+
   
-  
-  
+
 
 
 
 # My Skill Set
 
-#### Backend
-
-<div align="center">
-<img style="margin: 10px" src="https://github.com/openvinotoolkit/openvino/blob/master/docs/img/openvino-logo-purple-black.png" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
 #### Model deployment
 
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+<img style="margin: 10px" src="./image/openvino.png" alt="openvino" height="40" />
+<img style="margin: 10px" src="./image/tensorrt.png" alt="tensorrt" height="60" />
+<img style="margin: 10px" src="./image/runtime.png" alt="runtime" height="60" />
+<img style="margin: 10px" src="./image/PaddlePaddle Inference.png" alt="PaddlePaddle Inference" height="60" />
+<img style="margin: 10px" src="./image/opencv.jpg" alt="opencv" height="60" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-#### DevOps
+#### Backend
 
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+<img style="margin: 10px" src="./image/c++.jpg" alt="c++" height="60" />
+<img style="margin: 10px" src="./image/C#.jpg" alt="C#.jpg" height="60" />
+<img style="margin: 10px" src="./image/Python.png" alt="Python.png" height="60" />
+<img style="margin: 10px" src="./image/Qt.jpg" alt="Qt.jpg" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 </div>
+
+
+
+
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+#### Deep Learning
+
+<div align="center">
+<img style="margin: 10px" src="./image/pytorch.jpg" alt="pytorch.jpg" height="60" />
+<img style="margin: 10px" src="./image/PaddlePaddle-Logo.png" alt="PaddlePaddle-Logo.png" height="60" />
+<img style="margin: 10px" src="./image/MATLAB.png" alt="MATLAB.png" height="60" />
+
+</div>
+
 
 </td>
 </tr>
