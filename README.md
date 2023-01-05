@@ -40,12 +40,13 @@
 #### Model deployment
 
 <div align="center">
-<img style="margin: 10px" src="./image/openvino.png" alt="openvino" height="40" />
-<img style="margin: 10px" src="./image/tensorrt.png" alt="tensorrt" height="60" />
-<img style="margin: 10px" src="./image/runtime.png" alt="runtime" height="60" />
-<img style="margin: 10px" src="./image/PaddlePaddle Inference.png" alt="PaddlePaddle Inference" height="60" />
-<img style="margin: 10px" src="./image/opencv.jpg" alt="opencv" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/openvino.png" alt="openvino" height="40" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/tensorrt.png" alt="tensorrt" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/runtime.png" alt="runtime" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/PaddlePaddle Inference.png" alt="PaddlePaddle Inference" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/opencv.jpg" alt="opencv" height="60" />
 </div>
+
 
 </td>
 <td valign="top" width="33%">
@@ -53,13 +54,14 @@
 #### Backend
 
 <div align="center">
-<img style="margin: 10px" src="./image/c++.jpg" alt="c++" height="60" />
-<img style="margin: 10px" src="./image/C#.jpg" alt="C#.jpg" height="60" />
-<img style="margin: 10px" src="./image/Python.png" alt="Python.png" height="60" />
-<img style="margin: 10px" src="./image/Qt.jpg" alt="Qt.jpg" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/c++.jpg" alt="c++" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/C#.jpg" alt="C#.jpg" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/Python.png" alt="Python.png" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/Qt.jpg" alt="Qt.jpg" height="60" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 </div>
+
 
 
 
@@ -72,9 +74,9 @@
 #### Deep Learning
 
 <div align="center">
-<img style="margin: 10px" src="./image/pytorch.jpg" alt="pytorch.jpg" height="60" />
-<img style="margin: 10px" src="./image/PaddlePaddle-Logo.png" alt="PaddlePaddle-Logo.png" height="60" />
-<img style="margin: 10px" src="./image/MATLAB.png" alt="MATLAB.png" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/pytorch.jpg" alt="pytorch.jpg" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/PaddlePaddle-Logo.png" alt="PaddlePaddle-Logo.png" height="60" />
+<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/MATLAB.png" alt="MATLAB.png" height="60" />
 
 </div>
 
@@ -91,7 +93,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guojin-yan&theme=tokyo-night)
 
-<div align=center><span><img src="https://github-readme-streak-stats.herokuapp.com/?user=guojin-yan&theme=dark" height=220/></span><span><img src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark" height=220/></div>
+<div align=center><span><img src="https://github-readme-streak-stats.herokuapp.com/?user=guojin-yan&theme=dark" height=200/></span><span><img src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark" height=200/></div>
 
 
 
