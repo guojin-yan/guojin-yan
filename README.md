@@ -40,12 +40,13 @@
 #### Model deployment
 
 <div align="center">
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/openvino.png" alt="openvino" height="40" />
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/tensorrt.png" alt="tensorrt" height="60" />
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/runtime.png" alt="runtime" height="60" />
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/PaddlePaddle Inference.png" alt="PaddlePaddle Inference" height="60" />
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/opencv.jpg" alt="opencv" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/AHsZd6OLprbu2SX.png" alt="openvino" height="40" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/bMnXBtId7UlhWu1.png" alt="tensorrt" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/d7elJWi5YmF8vUn.png" alt="runtime" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/D5LVwNmB6vZ2aps.png" alt="PaddlePaddle Inference" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/EFDkx8VYdUI1qTG.jpg" alt="opencv" height="60" />
 </div>
+
 
 
 </td>
@@ -54,10 +55,10 @@
 #### Backend
 
 <div align="center">
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/c++.jpg" alt="c++" height="60" />
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/C#.jpg" alt="C#.jpg" height="60" />
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/Python.png" alt="Python.png" height="60" />
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/Qt.jpg" alt="Qt.jpg" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/AP8cFlBt63DSvGf.jpg" alt="c++" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/4MZpe6ajCDwquSX.jpg" alt="C#.jpg" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/MaVKBJcCet5Xvkz.png" alt="Python.png" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/Clo3rgPEuHI1GAy.jpg" alt="Qt.jpg" height="60" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 </div>
@@ -74,9 +75,10 @@
 #### Deep Learning
 
 <div align="center">
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/pytorch.jpg" alt="pytorch.jpg" height="60" />
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/PaddlePaddle-Logo.png" alt="PaddlePaddle-Logo.png" height="60" />
-<img style="margin: 10px" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/MATLAB.png" alt="MATLAB.png" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/jJTaDoZS26FvV4I.jpg" alt="pytorch.jpg" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/pDaQ9wOrnuLk18h.png" alt="PaddlePaddle-Logo.png" height="60" />
+<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/CFfZP3yqSWRE2iH.png" alt="MATLAB.png" height="60" />
+
 
 </div>
 
