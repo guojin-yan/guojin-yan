@@ -93,7 +93,9 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-![Visitor Count](https://profile-counter.glitch.me/guojin-yan/count.svg)
+<p align='center'><a><img src="https://profile-counter.glitch.me/guojin-yan/count.svg"></a>&nbsp; </p>
+
+
 
 <p align='center'>
     <a href="https://github.com/guojin-yan"><img height="30" src="./icons/github.gif?raw=true"></a>&nbsp;&nbsp;
