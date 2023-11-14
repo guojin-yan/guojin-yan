@@ -15,19 +15,19 @@
 
 ### <img align="right" alt="GIF" src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark" width="350" height="180" />🛎️Main jobs
 
-#####   ⚫  😊**致力于在C#平台部署深度学习模型;**
+  ⚫  😊**致力于在C#平台部署深度学习模型;**
 
-#####   ⚫  😁**开发Intel OpenVINO和NVIDIA TensorRT的C#接口**
+  ⚫  😁**开发Intel OpenVINO和NVIDIA TensorRT的C#接口**
 
-#####   ⚫  😇**在OpenVINO平台部署和优化PaddlePaddle模型****
+  ⚫  😇**在OpenVINO平台部署和优化PaddlePaddle模型****
 
 <img align="left" alt="GIF" src="./image/techstack.gif" width="400"  height="250" /> 
 
-##### ⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
+⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
 
-##### ⚫  😛**Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;**
+⚫  😛**Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;**
 
-##### ⚫ 😏 **Deploying and optimizing PaddlePaddle models on the OpenVINO platform;**
+⚫ 😏 **Deploying and optimizing PaddlePaddle models on the OpenVINO platform;**
 
 
 
@@ -50,9 +50,10 @@
 ### 📘My Top Open Source Projects
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/guojin-yan/OpenVINO-CSharp-API" title="OpenVINO-CSharp-API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=OpenVINO-CSharp-API&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a  align="right"  href="https://github.com/guojin-yan/RT-DETR-OpenVINO" title="RT-DETR-OpenVINO"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=RT-DETR-OpenVINO&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/guojin-yan/OpenVINO-CSharp-API" title="OpenVINO-CSharp-API"><img align="left" weight="400"  src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=OpenVINO-CSharp-API&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a  align="right"  href="https://github.com/guojin-yan/RT-DETR-OpenVINO" title="RT-DETR-OpenVINO"><img align="right" weight="400" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=RT-DETR-OpenVINO&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+
 
 
 
