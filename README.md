@@ -38,7 +38,7 @@
 
 ### 🏗️Skill
 
-<p align='left'><a><img height="150" src="https://skillicons.dev/icons?i=dotnet,qt,github,visualstudio,vscode,pytorch,ae,pr,ps,matlab,linux,raspberrypi,cmake,vim&perline=5"></a>&nbsp; </p>
+<p align='left'><a><img height="160" src="https://skillicons.dev/icons?i=dotnet,qt,github,visualstudio,vscode,pytorch,ae,pr,ps,matlab,linux,raspberrypi,cmake,vim&perline=5"></a>&nbsp; </p>
 
 ----
 
@@ -89,7 +89,6 @@
 
 
 
----
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
