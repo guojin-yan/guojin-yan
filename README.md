@@ -1,60 +1,105 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0A222D&width=800&height=80&lines=Hello+Github+World+!+!+!;Welcome+to+my+homepage%EF%BC%8Cvisitors+!+!+!)](https://git.io/typing-svg)
-
-# 👋 Hi, I’m [Yan Guojin](https://github.com/guojin-yan)！！
-
-## Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/guojin-yan/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
-
-<div align=center><span><img src="https://github-readme-streak-stats.herokuapp.com/?user=guojin-yan&theme=dark" height=250/></span></div>
-
-<div align=center><span><img src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark" height=180/></span><span><img src="https://stats.justsong.cn/api/juejin?id=1561767867056414&theme=dark" height=180/></div>
-
- <div align=center><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=tokyonight" height=180/></span></div>
-
-- 👀 I am interested in the deployment of in-depth learning models on different platforms. At present, I have contacted and used Intel OpenVINO, Paddle Inference, NVIDIA TensorRT, ONNX runtime, OpenCV DNN and other model deployment methods, and I am committed to promoting the use of Intel OpenVINO, Paddle Inference, NVIDIA TensorRT in C # platforms. 
-- 📫 If you have any questions, you can contact me at the email address: guojin_yjs@cumt.edu.cn ； Or add my WeChat: GitGitee, please explain the source and purpose of adding.
-- 👀 我对深度学习模型在不同平台的部署感兴趣，目前已经接触并使用Intel OpenVINO、Paddle Inference、NVIDIA TensorRT、ONNX runtime、OpenCV DNN 等模型部署方式，并致力于推动Intel OpenVINO、Paddle Inference、NVIDIA TensorRT部署方式在C#平台使用.
-- 📫 如果有什么问题可以在邮箱上联系我，邮箱联系方式为：guojin_yjs@cumt.edu.cn；或者添加我的微信：GitGitee，请说明添加来源以及来意。
-
-![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)：GitGitee     ![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)：guojin_yjs@cumt.edu.cn
-
-- 🚀 I use programming language daily:
-
-  <div align=center><span><img src="https://img.shields.io/badge/-Python-FF942C?logo=python&logoColor=00" height=30/></span><span><img src="https://img.shields.io/badge/-C++-3B45D4?logo=cplusplus&logoColor=00" height=30/></span><span><img src="https://img.shields.io/badge/-C%20Sharp-7500E3?logo=csharp&logoColor=1" height=30/></span></div>
-
-- 🚀 I work usingdaily:
-
-  <div align=center><span><img src="https://img.shields.io/badge/-Visual%20Studio-6A1FBF?logo=visualstudio&logoColor=1" height=30/></span><span><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code" height=30/></span><span><img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043" height=30/></span><span><img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github" height=30/></span><span><img src="https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061" height=30/></span></div>
-
-
-
-# My Skill Set
-
-#### Model deployment
-
 <div align="center">
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/AHsZd6OLprbu2SX.png" alt="openvino" height="40" />
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/bMnXBtId7UlhWu1.png" alt="tensorrt" height="60" />
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/d7elJWi5YmF8vUn.png" alt="runtime" height="60" />
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/D5LVwNmB6vZ2aps.png" alt="PaddlePaddle Inference" height="60" />
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/EFDkx8VYdUI1qTG.jpg" alt="opencv" height="60" />
+   <h1>Hello, I'm <a href="https://github.com/guojin-yan">Guojin Yan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+<p align='center'>
+    <a href="https://github.com/guojin-yan"><img height="30" src="./icons/github.gif?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://blog.csdn.net/Grape_yan"><img height="30" src="./icons/email.gif?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://github.com/guojin-yan"><img height="30" src="./icons/csdn.png?raw=true"></a>&nbsp;&nbsp;
+    <a href=".image/qq.jpg"><img height="30" src="./icons/qq.png?raw=true"></a>&nbsp;&nbsp;
+    <a href=".image/wechat.png"><img height="30" src="./icons/wechat.png"></a>&nbsp;&nbsp;
+ </p>
+
+ <div align=left><span><img src="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=tokyonight" height=180/></span></div>
+
+----
+
+### <img align="right" alt="GIF" src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark" width="350" height="180" />🛎️Main jobs
+
+  ⚫  😊**致力于在C#平台部署深度学习模型;**
+
+  ⚫  😁**开发Intel OpenVINO和NVIDIA TensorRT的C#接口**
+
+  ⚫  😇**在OpenVINO平台部署和优化PaddlePaddle模型****
+
+<img align="left" alt="GIF" src="./image/techstack.gif" width="400"  height="250" /> 
+
+⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
+
+⚫  😛**Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;**
+
+⚫ 😏 **Deploying and optimizing PaddlePaddle models on the OpenVINO platform;**
+
+
+
+----
+
+### <img align="right" alt="GIF" src="./image/code.gif?raw=true" width="500" height="320" />🌅Languages  
+
+<p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust&perline=5"></a>&nbsp; </p>
+
+### 🏗️Skill
+
+<p align='left'><a><img height="150" src="https://skillicons.dev/icons?i=dotnet,qt,github,visualstudio,vscode,pytorch,ae,pr,ps,matlab,linux,raspberrypi,cmake,vim&perline=5"></a>&nbsp; </p>
+
+----
+
+### 📘My Top Open Source Projects
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/guojin-yan/OpenVINO-CSharp-API" title="OpenVINO-CSharp-API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=OpenVINO-CSharp-API&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a  align="right"  href="https://github.com/guojin-yan/RT-DETR-OpenVINO" title="RT-DETR-OpenVINO"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=RT-DETR-OpenVINO&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-#### Backend
 
-<div align="center">
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/AP8cFlBt63DSvGf.jpg" alt="c++" height="60" />
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/4MZpe6ajCDwquSX.jpg" alt="C#.jpg" height="60" />
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/MaVKBJcCet5Xvkz.png" alt="Python.png" height="60" />
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/Clo3rgPEuHI1GAy.jpg" alt="Qt.jpg" height="60" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+
+
+
+
+
+
+<div width="100%" align="center">  
+    <a align="left" href="https://github.com/guojin-yan/TensorRTSharp" title="TensorRTSharp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=TensorRTSharp&theme=react&border_color=61dafb&border_radius=10"></a>    
+    <a  align="right"  href="https://github.com/guojin-yan/Csharp_deploy_Yolov8" title="Csharp_deploy_Yolov8"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_deploy_Yolov8&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-#### Deep Learning
 
-<div align="center">
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/jJTaDoZS26FvV4I.jpg" alt="pytorch.jpg" height="60" />
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/pDaQ9wOrnuLk18h.png" alt="PaddlePaddle-Logo.png" height="60" />
-<img style="margin: 10px" src="https://s2.loli.net/2023/01/07/CFfZP3yqSWRE2iH.png" alt="MATLAB.png" height="60" />
-<!---
-guojin-yan/guojin-yan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
+<div width="100%" align="center">  
+    <a align="left" href="https://github.com/guojin-yan/Csharp_and_OpenVINO_deploy_PaddleOCR" title="Csharp_and_OpenVINO_deploy_PaddleOCR"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_and_OpenVINO_deploy_PaddleOCR&theme=react&border_color=61dafb&border_radius=10"></a>    
+    <a  align="right"  href="https://github.com/guojin-yan/Csharp_and_OpenVINO_deploy_PP-Human" title="Csharp_and_OpenVINO_deploy_PP-Human"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_and_OpenVINO_deploy_PP-Human&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+
+
+
+
+
+
+<div width="100%" align="center">  
+    <a align="left" href="https://github.com/guojin-yan/Inference" title="Inference"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Inference&theme=react&border_color=61dafb&border_radius=10"></a>    
+    <a  align="right"  href="https://github.com/guojin-yan/Csharp_and_OpenVINO_deploy_PP-TinyPose" title="Csharp_and_OpenVINO_deploy_PP-TinyPose"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_and_OpenVINO_deploy_PP-TinyPose&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+
+
+
+
+
+
+---
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+![Visitor Count](https://profile-counter.glitch.me/guojin-yan/count.svg)
+
+<p align='center'>
+    <a href="https://github.com/guojin-yan"><img height="30" src="./icons/github.gif?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://blog.csdn.net/Grape_yan"><img height="30" src="./icons/email.gif?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://github.com/guojin-yan"><img height="30" src="./icons/csdn.png?raw=true"></a>&nbsp;&nbsp;
+    <a href=".image/qq.jpg"><img height="30" src="./icons/qq.png?raw=true"></a>&nbsp;&nbsp;
+    <a href=".image/wechat.png"><img height="30" src="./icons/wechat.png"></a>&nbsp;&nbsp;
+ </p>
+
