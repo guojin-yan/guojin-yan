@@ -24,7 +24,7 @@
     <h5>⚫  😇在OpenVINO平台部署和优化PaddlePaddle模型;</h5>
     <h5>⚫  🤗Dedicated to deploying deep learning models on the C # platform;</h5>
     <h5>⚫  😛Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;</h5>
-    <h5>⚫  😛Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;</h5>
+    <h5>⚫  😛Deploying and optimizing PaddlePaddle models on the OpenVINO platform;</h5>
 
 ----
 
