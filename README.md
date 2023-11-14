@@ -23,13 +23,11 @@
 
   ⚫  😇**在OpenVINO平台部署和优化PaddlePaddle模型**
 
-<img align="left" alt="GIF" src="./image/techstack.gif" width="300"  height="200" /> 
+  ⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
 
-⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
+  ⚫  😛**Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;**
 
-⚫  😛**Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;**
-
-⚫ 😏 **Deploying and optimizing PaddlePaddle models on the OpenVINO platform;**
+  ⚫ 😏 **Deploying and optimizing PaddlePaddle models on the OpenVINO platform;**
 
 ----
 
