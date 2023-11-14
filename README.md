@@ -15,19 +15,16 @@
 
 <img align="right" alt="GIF" src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark" width="350" height="180" />
 
-### 🛎️**Main jobs**
 
-  ⚫  😊**致力于在C#平台部署深度学习模型;**
 
-  ⚫  😁**开发Intel OpenVINO和NVIDIA TensorRT的C#接口**
-
-  ⚫  😇**在OpenVINO平台部署和优化PaddlePaddle模型**
-
-  ⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
-
-  ⚫  😛**Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;**
-
-  ⚫ 😏 **Deploying and optimizing PaddlePaddle models on the OpenVINO platform;**
+<div align="left">
+    <h3>🛎️Main jobs</h3>
+    <h5>⚫  😊致力于在C#平台部署深度学习模型;</h5>
+    <h5>⚫  😁开发Intel OpenVINO和NVIDIA TensorRT的C#接口;</h5>
+    <h5>⚫  😇在OpenVINO平台部署和优化PaddlePaddle模型;</h5>
+    <h5>⚫  🤗Dedicated to deploying deep learning models on the C # platform;</h5>
+    <h5>⚫  😛Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;</h5>
+    <h5>⚫  😛Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;</h5>
 
 ----
 
