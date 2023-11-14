@@ -15,25 +15,29 @@
 
 ### <img align="right" alt="GIF" src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=dark" width="350" height="180" />🛎️Main jobs
 
-  ⚫  😊**致力于在C#平台部署深度学习模型;**
+#####   ⚫  😊**致力于在C#平台部署深度学习模型;**
 
-  ⚫  😁**开发Intel OpenVINO和NVIDIA TensorRT的C#接口**
+#####   ⚫  😁**开发Intel OpenVINO和NVIDIA TensorRT的C#接口**
 
-  ⚫  😇**在OpenVINO平台部署和优化PaddlePaddle模型****
+#####   ⚫  😇**在OpenVINO平台部署和优化PaddlePaddle模型****
 
 <img align="left" alt="GIF" src="./image/techstack.gif" width="400"  height="250" /> 
 
-⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
+##### ⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
 
-⚫  😛**Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;**
+##### ⚫  😛**Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;**
 
-⚫ 😏 **Deploying and optimizing PaddlePaddle models on the OpenVINO platform;**
+##### ⚫ 😏 **Deploying and optimizing PaddlePaddle models on the OpenVINO platform;**
+
+
 
 
 
 ----
 
-### <img align="right" alt="GIF" src="./image/code.gif?raw=true" width="500" height="320" />🌅Languages  
+<img align="right" alt="GIF" src="https://github.com/guojin-yan/guojin-yan/blob/main/image/code.gif?raw=true" width="520" height="330" /> 
+
+### 🌅Languages  
 
 <p align='left'><a><img height="45" src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust&perline=5"></a>&nbsp; </p>
 
@@ -102,4 +106,3 @@
     <a href=".image/qq.jpg"><img height="30" src="./icons/qq.png?raw=true"></a>&nbsp;&nbsp;
     <a href=".image/wechat.png"><img height="30" src="./icons/wechat.png"></a>&nbsp;&nbsp;
  </p>
-
