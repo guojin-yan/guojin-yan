@@ -19,15 +19,17 @@
 
   ⚫  😁**开发Intel OpenVINO和NVIDIA TensorRT的C#接口**
 
-  ⚫  😇**在OpenVINO平台部署和优化PaddlePaddle模型****
+  ⚫  😇**在OpenVINO平台部署和优化PaddlePaddle模型**
 
-<img align="left" alt="GIF" src="./image/techstack.gif" width="400"  height="250" /> 
 
-⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
+
+<img align="left" alt="GIF" src="./image/techstack.gif" width="300"  height="200" /> ⚫  🤗**Dedicated to deploying deep learning models on the C # platform;**
 
 ⚫  😛**Develop C # interfaces for Intel OpenVINO and NVIDIA TensorRT;**
 
 ⚫ 😏 **Deploying and optimizing PaddlePaddle models on the OpenVINO platform;**
+
+
 
 
 
