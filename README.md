@@ -1,13 +1,13 @@
 <div align="center">
    <h1>Hello, I'm <a href="https://github.com/guojin-yan">Guojin Yan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
 <p align='center'>
     <a href="https://github.com/guojin-yan"><img height="30" src="./icons/github.gif?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://blog.csdn.net/Grape_yan"><img height="30" src="./icons/email.gif?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://github.com/guojin-yan"><img height="30" src="./icons/csdn.png?raw=true"></a>&nbsp;&nbsp;
-    <a href=".image/qq.jpg"><img height="30" src="./icons/qq.png?raw=true"></a>&nbsp;&nbsp;
-    <a href=".image/wechat.png"><img height="30" src="./icons/wechat.png"></a>&nbsp;&nbsp;
+    <a href="guojin_yjs@cumt.edu.cn"><img height="30" src="./icons/email.gif?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://blog.csdn.net/Grape_yan"><img height="30" src="./icons/csdn.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://github.com/guojin-yan/guojin-yan/blob/main/image/qq.jpg"><img height="30" src="./icons/qq.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://github.com/guojin-yan/guojin-yan/blob/main/image/wechat.png"><img height="30" src="./icons/wechat.png"></a>&nbsp;&nbsp;
  </p>
+
 
  <div align=left><span><img src="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=tokyonight" height=180/></span></div>
 
@@ -99,8 +99,8 @@
 
 <p align='center'>
     <a href="https://github.com/guojin-yan"><img height="30" src="./icons/github.gif?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://blog.csdn.net/Grape_yan"><img height="30" src="./icons/email.gif?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://github.com/guojin-yan"><img height="30" src="./icons/csdn.png?raw=true"></a>&nbsp;&nbsp;
-    <a href=".image/qq.jpg"><img height="30" src="./icons/qq.png?raw=true"></a>&nbsp;&nbsp;
-    <a href=".image/wechat.png"><img height="30" src="./icons/wechat.png"></a>&nbsp;&nbsp;
+    <a href="guojin_yjs@cumt.edu.cn"><img height="30" src="./icons/email.gif?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://blog.csdn.net/Grape_yan"><img height="30" src="./icons/csdn.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://github.com/guojin-yan/guojin-yan/blob/main/image/qq.jpg"><img height="30" src="./icons/qq.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://github.com/guojin-yan/guojin-yan/blob/main/image/wechat.png"><img height="30" src="./icons/wechat.png"></a>&nbsp;&nbsp;
  </p>
