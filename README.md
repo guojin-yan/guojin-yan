@@ -6,7 +6,11 @@
     <a href="https://blog.csdn.net/Grape_yan"><img height="30" src="./icons/csdn.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://github.com/guojin-yan/guojin-yan/blob/main/image/qq.jpg"><img height="30" src="./icons/qq.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://github.com/guojin-yan/guojin-yan/blob/main/image/wechat.png"><img height="30" src="./icons/wechat.png"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=amXYSP1CFEPfWojrIrpQY0jsfcwo4kTN&jump_from=webapi&authKey=4uwGdqpKOB6U6rDQ3Wo4aB2cKd8frEJua3koI3pu+Ul8mpH1yD2qMksL2V5Nn77a"><img border="0" src="https://img.shields.io/badge/QQ_Group-945057948-00?style=social&logo=tencentqq" alt="CSharp与边缘模型部署" title="CSharp与边缘模型部署"></a>
+
+
  </p>
+
 
 
  <div align=left><span><img src="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=tokyonight" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&exclude_repo=OpenVINO-CSharp-API.docs,guojin-yan.github.io&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" height=180/></span></div>
