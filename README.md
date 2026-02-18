@@ -52,9 +52,6 @@
     <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=111" alt="QQ"/>
   </a>
   <a href="./image/wechataccount.png">
-    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=111" alt="微信"/>
-  </a>
-  <a href="#微信公众号">
     <img src="https://img.shields.io/badge/微信公众号-2CA9E1?style=for-the-badge&logo=wechat&logoColor=white&labelColor=111" alt="微信公众号"/>
   </a>
 </p>
@@ -89,32 +86,17 @@
   <img src="https://img.shields.io/badge/YOLO-Expert-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=111" alt="YOLO"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=111" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=111" alt="Linux"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white&labelColor=111" alt="CMake"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=111" alt="Qt"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111" alt="Git"/>
-</p>
-
 ---
 
-<!-- 🏆 主要项目展示 -->
+<!-- 🏆 CORE PROJECTS -->
 <h2 align="center">🏆 Core Projects</h2>
 
 <div align="center">
 
 <!-- DeploySharp -->
 <a href="https://github.com/guojin-yan/DeploySharp">
-  <img src="https://img.shields.io/badge/🚀_DeploySharp-Universal_Deployment_Framework-FF6B6B?style=for-the-badge&logoColor=white&labelColor=111&logo=dotnet" width="80%"/>
+  <img src="https://img.shields.io/badge/🔗_DeploySharp-Universal_Deployment_Framework-FF6B6B?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=111" width="85%"/>
 </a>
-
-<p>
-  <img src="https://img.shields.io/github/stars/guojin-yan/DeploySharp?style=flat-square&color=FF6B6B&label=⭐&labelColor=111" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/guojin-yan/DeploySharp?style=flat-square&color=FF6B6B&label=🍴&labelColor=111" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/guojin-yan/DeploySharp?style=flat-square&color=FF6B6B&label=🐛&labelColor=111" alt="Issues"/>
-  <img src="https://img.shields.io/github/last-commit/guojin-yan/DeploySharp?style=flat-square&color=FF6B6B&label=📅&labelColor=111" alt="Updated"/>
-</p>
 
 <p><i>🎯 Unified deep learning model deployment framework supporting multiple inference engines</i></p>
 
@@ -125,32 +107,18 @@
 <tr>
 <td width="50%" align="center">
 
-### 🔷 OpenVINO-CSharp-API
 <a href="https://github.com/guojin-yan/OpenVINO-CSharp-API">
-  <img src="https://img.shields.io/badge/Intel_OpenVINO-C%23_API-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=111" width="90%"/>
+  <img src="https://img.shields.io/badge/🔷_OpenVINO--CSharp--API-Intel%20OpenVINO%20C%23%20API-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=111" width="95%"/>
 </a>
-
-<p>
-  <img src="https://img.shields.io/github/stars/guojin-yan/OpenVINO-CSharp-API?style=flat-square&color=0071C5&label=⭐&labelColor=111" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/guojin-yan/OpenVINO-CSharp-API?style=flat-square&color=0071C5&label=🍴&labelColor=111" alt="Forks"/>
-  <img src="https://img.shields.io/github/last-commit/guojin-yan/OpenVINO-CSharp-API?style=flat-square&color=0071C5&label=📅&labelColor=111" alt="Updated"/>
-</p>
 
 <p><i>Complete C# API for Intel OpenVINO inference engine</i></p>
 
 </td>
 <td width="50%" align="center">
 
-### 🔶 TensorRT-CSharp-API
 <a href="https://github.com/guojin-yan/TensorRT-CSharp-API">
-  <img src="https://img.shields.io/badge/NVIDIA_TensorRT-C%23_API-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=111" width="90%"/>
+  <img src="https://img.shields.io/badge/🔶_TensorRT--CSharp--API-NVIDIA%20TensorRT%20C%23%20API-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=111" width="95%"/>
 </a>
-
-<p>
-  <img src="https://img.shields.io/github/stars/guojin-yan/TensorRT-CSharp-API?style=flat-square&color=76B900&label=⭐&labelColor=111" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/guojin-yan/TensorRT-CSharp-API?style=flat-square&color=76B900&label=🍴&labelColor=111" alt="Forks"/>
-  <img src="https://img.shields.io/github/last-commit/guojin-yan/TensorRT-CSharp-API?style=flat-square&color=76B900&label=📅&labelColor=111" alt="Updated"/>
-</p>
 
 <p><i>High-performance NVIDIA GPU inference C# interface</i></p>
 
@@ -162,7 +130,7 @@
 
 ---
 
-<!-- 📦 其他项目 -->
+<!-- 📦 OTHER PROJECTS -->
 <h2 align="center">📦 Model Deployment Projects</h2>
 
 <div align="center">
@@ -172,43 +140,25 @@
 <td width="33%" align="center">
 
 <a href="https://github.com/guojin-yan/YoloDeployCsharp">
-  <img src="https://img.shields.io/badge/YOLO-C%23_Deploy-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=111" width="100%"/>
+  <img src="https://img.shields.io/badge/YOLO-C%23_Deploy-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=111" width="95%"/>
 </a>
-
-<p>
-  <img src="https://img.shields.io/github/stars/guojin-yan/YoloDeployCsharp?style=flat-square&color=00FFFF&label=⭐&labelColor=111" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/guojin-yan/YoloDeployCsharp?style=flat-square&color=00FFFF&label=🍴&labelColor=111" alt="Forks"/>
-</p>
 
 </td>
 <td width="33%" align="center">
 
 <a href="https://github.com/guojin-yan/RT-DETR-OpenVINO">
-  <img src="https://img.shields.io/badge/RT--DETR-OpenVINO-FF6B6B?style=for-the-badge&logo=detr&logoColor=white&labelColor=111" width="100%"/>
+  <img src="https://img.shields.io/badge/RT--DETR-OpenVINO-FF6B6B?style=for-the-badge&logo=detr&logoColor=white&labelColor=111" width="95%"/>
 </a>
-
-<p>
-  <img src="https://img.shields.io/github/stars/guojin-yan/RT-DETR-OpenVINO?style=flat-square&color=FF6B6B&label=⭐&labelColor=111" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/guojin-yan/RT-DETR-OpenVINO?style=flat-square&color=FF6B6B&label=🍴&labelColor=111" alt="Forks"/>
-</p>
 
 </td>
 <td width="33%" align="center">
 
 <a href="https://github.com/guojin-yan/PaddleOCR-OpenVINO-CSharp">
-  <img src="https://img.shields.io/badge/PaddleOCR-OpenVINO-4285F4?style=for-the-badge&logo=paddlepaddle&logoColor=white&labelColor=111" width="100%"/>
+  <img src="https://img.shields.io/badge/PaddleOCR-OpenVINO-4285F4?style=for-the-badge&logo=paddlepaddle&logoColor=white&labelColor=111" width="95%"/>
 </a>
-
-<p>
-  <img src="https://img.shields.io/github/stars/guojin-yan/PaddleOCR-OpenVINO-CSharp?style=flat-square&color=4285F4&label=⭐&labelColor=111" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/guojin-yan/PaddleOCR-OpenVINO-CSharp?style=flat-square&color=4285F4&label=🍴&labelColor=111" alt="Forks"/>
-</p>
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" align="center">
 
@@ -216,22 +166,12 @@
   <img src="https://img.shields.io/badge/Segment_Anything-C%23-9C27B0?style=for-the-badge&logo=meta&logoColor=white&labelColor=111" width="90%"/>
 </a>
 
-<p>
-  <img src="https://img.shields.io/github/stars/guojin-yan/segment-anything-csharp?style=flat-square&color=9C27B0&label=⭐&labelColor=111" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/guojin-yan/segment-anything-csharp?style=flat-square&color=9C27B0&label=🍴&labelColor=111" alt="Forks"/>
-</p>
-
 </td>
 <td width="50%" align="center">
 
 <a href="https://github.com/guojin-yan/OpenVINO_deploy_PP-YOLOE">
   <img src="https://img.shields.io/badge/PP--YOLOE-OpenVINO-FF9800?style=for-the-badge&logo=paddlepaddle&logoColor=white&labelColor=111" width="90%"/>
 </a>
-
-<p>
-  <img src="https://img.shields.io/github/stars/guojin-yan/OpenVINO_deploy_PP-YOLOE?style=flat-square&color=FF9800&label=⭐&labelColor=111" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/guojin-yan/OpenVINO_deploy_PP-YOLOE?style=flat-square&color=FF9800&label=🍴&labelColor=111" alt="Forks"/>
-</p>
 
 </td>
 </tr>
@@ -260,91 +200,103 @@ Other      ██████████                                10%
 <h3>🔥 Contribution Overview</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Active_Developer-🟢_Online-success?style=for-the-badge&labelColor=111" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-🟢_Active-success?style=for-the-badge&labelColor=111" alt="Status"/>
   <img src="https://img.shields.io/badge/Commits-200+-00D4AA?style=for-the-badge&labelColor=111" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Pull_Requests-Active-blue?style=for-the-badge&labelColor=111" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Projects-15+-blue?style=for-the-badge&labelColor=111" alt="Projects"/>
 </p>
 
 </div>
 
 ---
 
-<!-- 🔥 ACTIVITY & BLOGS -->
-<h2 align="center">🔥 Recent Activity & Blogs</h2>
+<!-- 🔥 SOCIAL MEDIA & BLOGS -->
+<h2 align="center">🔥 Social Media & Blogs</h2>
 
 <div align="center">
 
+<!-- 统一风格的社交平台卡片 -->
 <table>
 <tr>
-<td width="25%">
+<td width="25%" align="center">
 
-<h3>📝 CSDN Blog</h3>
+<h3>📝 CSDN</h3>
 
 <a href="https://blog.csdn.net/Grape_yan">
-  <img src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=radical" width="100%" alt="CSDN"/>
-</a>
-
-<p align="center">
-  <a href="https://blog.csdn.net/Grape_yan">
-    <img src="https://img.shields.io/badge/Visit_CSDN-FC5531?style=flat-square&logo=c&logoColor=white&labelColor=111" alt="CSDN"/>
-  </a>
-</p>
-
-</td>
-<td width="25%">
-
-<h3>📝 博客园</h3>
-
-<!-- 博客园统计卡片 -->
-<a href="https://www.cnblogs.com/guojin-blogs">
-  <img src="https://img.shields.io/badge/博客园-技术博客-2D8CF0?style=for-the-badge&logo=blogs&logoColor=white&labelColor=111" width="100%"/>
+  <img src="https://img.shields.io/badge/CSDN-技术博客-FC5531?style=for-the-badge&logo=c&logoColor=white&labelColor=111" width="90%"/>
 </a>
 
 <br/><br/>
 
-<p align="center">
+<a href="https://blog.csdn.net/Grape_yan">
+  <img src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=radical" width="90%" alt="CSDN Stats"/>
+</a>
+
+</td>
+<td width="25%" align="center">
+
+<h3>📝 博客园</h3>
+
+<a href="https://www.cnblogs.com/guojin-blogs">
+  <img src="https://img.shields.io/badge/博客园-技术博客-2D8CF0?style=for-the-badge&logo=blogs&logoColor=white&labelColor=111" width="90%"/>
+</a>
+
+<br/><br/>
+
+<p>
   <a href="https://www.cnblogs.com/guojin-blogs">
-    <img src="https://img.shields.io/badge/Visit_博客园-2D8CF0?style=flat-square&logo=blogs&logoColor=white&labelColor=111" alt="博客园"/>
+    <img src="https://img.shields.io/badge/Visit-2D8CF0?style=flat-square&logo=blogs&logoColor=white&labelColor=111" alt="Visit"/>
   </a>
 </p>
 
+<p><i>分享深度学习部署经验</i></p>
+
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
 <h3>📱 微信公众号</h3>
 
-<!-- 微信公众号二维码 -->
 <a href="./image/wechataccount.png">
-  <img src="./image/wechataccount.png" width="100" alt="微信公众号" style="border-radius: 10px;"/>
+  <img src="https://img.shields.io/badge/微信公众号-扫码关注-2CA9E1?style=for-the-badge&logo=wechat&logoColor=white&labelColor=111" width="90%"/>
 </a>
 
-<p align="center"><i>扫码关注公众号</i></p>
+<br/><br/>
+
+<a href="./image/wechataccount.png">
+  <img src="./image/wechataccount.png" width="80" alt="微信公众号" style="border-radius: 8px; border: 2px solid #2CA9E1;"/>
+</a>
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
 <h3>👥 QQ交流群</h3>
 
-<!-- QQ群二维码 -->
 <a href="./image/qqgroup.jpg">
-  <img src="./image/qqgroup.jpg" width="100" alt="QQ群" style="border-radius: 10px;"/>
+  <img src="https://img.shields.io/badge/QQ群-扫码加入-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=111" width="90%"/>
 </a>
 
-<p align="center"><i>扫码加入交流群</i></p>
+<br/><br/>
+
+<a href="./image/qqgroup.jpg">
+  <img src="./image/qqgroup.jpg" width="80" alt="QQ群" style="border-radius: 8px; border: 2px solid #12B7F5;"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-<!-- 贡献日历 -->
-<h3>📈 Contribution Calendar</h3>
+---
+
+<!-- 📈 ACTIVITY GRAPH -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guojin-yan/guojin-yan/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guojin-yan/guojin-yan/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/guojin-yan/guojin-yan/output/github-contribution-grid-snake.svg" width="70%"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/guojin-yan/guojin-yan/output/github-contribution-grid-snake.svg" width="75%"/>
 </picture>
 
 <p><i>🐍 Auto-generated by GitHub Actions</i></p>
@@ -378,7 +330,7 @@ Other      ██████████                                10%
     <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=111" alt="QQ"/>
   </a>
   <a href="./image/wechataccount.png">
-    <img src="https://img.shields.io/badge/微信公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=111" alt="微信公众号"/>
+    <img src="https://img.shields.io/badge/微信公众号-2CA9E1?style=for-the-badge&logo=wechat&logoColor=white&labelColor=111" alt="微信公众号"/>
   </a>
 </p>
 
