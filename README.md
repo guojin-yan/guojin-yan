@@ -1,278 +1,271 @@
-<!-- GitHub Profile README Optimized 2024 -->
+<!-- 3-Second Rule Optimized Profile -->
 
-<!-- Dynamic Header -->
+<!-- HEADER: 立即展示身份 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Guojin%20Yan%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=C%23%20Deep%20Learning%20Inference%20Framework%20Expert&descAlignY=55&descSize=20" width="100%"/>
-</div>
-<!-- Dynamic Typing Effect -->
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Guojin%20Yan&fontSize=60&color=0:00D4AA,100:0077BE&stroke=ffffff&strokeWidth=2&animation=twinkling&fontColor=fff" width="100%"/>
+
+<p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🚀+OpenVINO+C%23+API+Core+Contributor;⚡+TensorRT+C%23+Interface+Developer;🤖+Edge+AI+Deployment+Specialist;📝+Technical+Blogger+%40+CSDN" alt="Typing SVG" />
-  </a>
-</div>
-<!-- Social Links with Hover Effects -->
-
-<p align="center">
-  <a href="https://github.com/guojin-yan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub" />
-  </a>
-  <a href="mailto:guojin_yjs@cumt.edu.cn">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
-  </a>
-  <a href="https://blog.csdn.net/Grape_yan" target="_blank">
-    <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white&labelColor=FC5531" alt="CSDN" />
-  </a>
-  <a href="https://github.com/guojin-yan/guojin-yan/blob/main/image/qq.jpg" target="_blank">
-    <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=12B7F5" alt="QQ" />
-  </a>
-  <a href="https://github.com/guojin-yan/guojin-yan/blob/main/image/wechat.png" target="_blank">
-    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=07C160" alt="WeChat" />
-  </a>
-  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=amXYSP1CFEPfWojrIrpQY0jsfcwo4kTN" target="_blank">
-    <img src="https://img.shields.io/badge/QQ_Group-945057948-FF6B6B?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=FF6B6B" alt="QQ Group" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=900&lines=C%23+Deep+Learning+Inference+Expert;OpenVINO+%2B+TensorRT+C%23+API+Developer;Edge+AI+Deployment+Specialist;15%2B+Open+Source+Projects;1000%2B+GitHub+Stars+Earned" alt="Headline"/>
   </a>
 </p>
 
-<!-- Profile Views Counter -->
+</div>
+
+<!-- STATS BAR: 3秒看清交付力 -->
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/guojin-yan?style=flat-square&logo=github&label=Total%20Stars&color=FFD700&labelColor=000)](https://github.com/guojin-yan)
+[![Commits](https://img.shields.io/github/commit-activity/y/guojin-yan?style=flat-square&logo=git&label=Commits%2FYear&color=00D4AA&labelColor=000)](https://github.com/guojin-yan)
+[![Repos](https://img.shields.io/badge/Public%20Repos-40+-blue?style=flat-square&logo=github&labelColor=000)](https://github.com/guojin-yan?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/guojin-yan?style=flat-square&logo=github&label=Followers&color=ff69b4&labelColor=000)](https://github.com/guojin-yan)
+[![Profile Views](https://komarev.com/ghpvc/?username=guojin-yan&style=flat-square&color=00D4AA&labelColor=000)](https://github.com/guojin-yan)
+
+</div>
+
+---
+
+<!-- TECH STACK: 3秒看清技术栈 - 视觉轰炸式展示 -->
+<h2 align="center">🎯 Tech Stack</h2>
+
+<!-- 核心技能 - 最大最显眼 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guojin-yan&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/guojin-yan?style=for-the-badge&color=blue&labelColor=1a1a2e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/guojin-yan?style=for-the-badge&color=yellow&labelColor=1a1a2e" alt="Stars" />
+  <img src="https://img.shields.io/badge/C%23-Expert-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=111" alt="C#"/>
+  <img src="https://img.shields.io/badge/OpenVINO-Core%20Dev-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=111" alt="OpenVINO"/>
+  <img src="https://img.shields.io/badge/TensorRT-Creator-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=111" alt="TensorRT"/>
+  <img src="https://img.shields.io/badge/ONNX-Expert-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=111" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/PaddlePaddle-Expert-0062FF?style=for-the-badge&logo=paddlepaddle&logoColor=white&labelColor=111" alt="PaddlePaddle"/>
+</p>
+
+<!-- 语言和框架 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-Learning-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/.NET-Expert-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+<!-- 工具和平台 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/CMake-Advanced-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake"/>
+  <img src="https://img.shields.io/badge/Qt-Advanced-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- DELIVERY POWER: GitHub Stats 卡片矩阵 -->
+<h2 align="center">📊 Delivery Power</h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=OpenVINO-CSharp-API.docs,guojin-yan.github.io&hide=Jupyter%20Notebook"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=buefy&hide_border=true&exclude_repo=OpenVINO-CSharp-API.docs,guojin-yan.github.io&hide=Jupyter%20Notebook"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=tokyonight&hide_border=true"/>
-  </picture>
-</p>
+<div align="center">
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guojin-yan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" alt="GitHub Streak" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guojin-yan&theme=tokyonight&no-frame=true&column=7&margin-w=5&margin-h=5&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
+<a href="https://github.com/guojin-yan">
+  <img src="https://github-readme-stats.vercel.app/api?username=guojin-yan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=fff&count_private=true" width="100%" alt="GitHub Stats"/>
+</a>
 
-<!-- Metrics -->
-<p align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%"/>
-</p>
+</td>
+<td width="50%">
 
----
+<a href="https://github.com/guojin-yan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojin-yan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=fff&exclude_repo=OpenVINO-CSharp-API.docs,guojin-yan.github.io&hide=Jupyter%20Notebook" width="100%" alt="Languages"/>
+</a>
 
-<!-- About Me Section -->
-<h2 align="center">👨‍💻 About Me</h2>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-<div align="left">
+<a href="https://github.com/guojin-yan">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guojin-yan&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=00D4AA" width="80%" alt="Streak"/>
+</a>
 
-### 🎯 Core Expertise
+</td>
+</tr>
+</table>
 
-- 🏆 **OpenVINO C# API** - 核心开发者，提供完整的 C# 深度学习推理接口
-- ⚡ **TensorRT C# 接口** - 开发高性能 NVIDIA GPU 推理方案
-- 🤖 **边缘 AI 部署** - 专注于在 C# 平台部署和优化深度学习模型
-- 📝 **技术布道师** - CSDN 技术博主，分享深度学习部署经验
-
-### 🌟 Professional Highlights
-
-- 🎓 中国矿业大学研究生，专注于计算机视觉与深度学习
-- 🔬 深入研究 Intel OpenVINO、NVIDIA TensorRT 等推理框架
-- 🚀 在 C# 生态系统中推动深度学习模型部署标准化
-- 🌐 开源社区活跃贡献者，拥有多个热门 AI 部署项目
+<!-- Trophies -->
+<a href="https://github.com/guojin-yan">
+  <img src="https://github-profile-trophy.vercel.app/?username=guojin-yan&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
+</a>
 
 </div>
 
-<!-- 3D Contribution Calendar -->
-<h2 align="center">🐍 Contribution Snake</h2>
+---
 
+<!-- FEATURED PROJECTS: 3秒看清核心作品 -->
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+<!-- 核心项目 - 大号展示 -->
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/guojin-yan/OpenVINO-CSharp-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=OpenVINO-CSharp-API&theme=radical&hide_border=true&bg_color=0D1117&title_color=0071C5&icon_color=0071C5" width="100%" alt="OpenVINO-CSharp-API"/>
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/guojin-yan/OpenVINO-CSharp-API?style=flat-square&color=0071C5&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/guojin-yan/OpenVINO-CSharp-API?style=flat-square&color=0071C5&label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/last-commit/guojin-yan/OpenVINO-CSharp-API?style=flat-square&color=0071C5&label=Updated" alt="Updated"/>
+</p>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/guojin-yan/TensorRTSharp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=TensorRTSharp&theme=radical&hide_border=true&bg_color=0D1117&title_color=76B900&icon_color=76B900" width="100%" alt="TensorRTSharp"/>
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/guojin-yan/TensorRTSharp?style=flat-square&color=76B900&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/guojin-yan/TensorRTSharp?style=flat-square&color=76B900&label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/last-commit/guojin-yan/TensorRTSharp?style=flat-square&color=76B900&label=Updated" alt="Updated"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- 更多项目 -->
+
+<details>
+<summary><b>📦 More Projects (Click to Expand)</b></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%">
+
+<a href="https://github.com/guojin-yan/RT-DETR-OpenVINO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=RT-DETR-OpenVINO&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</a>
+
+</td>
+<td width="33%">
+
+<a href="https://github.com/guojin-yan/Csharp_deploy_Yolov8">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_deploy_Yolov8&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</a>
+
+</td>
+<td width="33%">
+
+<a href="https://github.com/guojin-yan/Csharp_and_OpenVINO_deploy_PaddleOCR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_and_OpenVINO_deploy_PaddleOCR&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+<a href="https://github.com/guojin-yan/Csharp_and_OpenVINO_deploy_PP-Human">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_and_OpenVINO_deploy_PP-Human&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</a>
+
+</td>
+<td width="33%">
+
+<a href="https://github.com/guojin-yan/Inference">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Inference&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</a>
+
+</td>
+<td width="33%">
+
+<a href="https://github.com/guojin-yan/Csharp_and_OpenVINO_deploy_PP-TinyPose">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_and_OpenVINO_deploy_PP-TinyPose&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+</div>
+
+---
+
+<!-- ACTIVITY: 3秒看清活跃度 -->
+<h2 align="center">🔥 Recent Activity</h2>
+
+<div align="center">
+
+<!-- 动态活动图 -->
+<a href="https://github.com/guojin-yan">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guojin-yan&theme=redical&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA" width="95%" alt="Activity"/>
+</a>
+
+<br/><br/>
+
+<!-- 最新博客 -->
+<table>
+<tr>
+<td width="50%">
+
+<h3>📝 Latest Blog Posts</h3>
+
+<a href="https://blog.csdn.net/Grape_yan">
+  <img src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=radical" width="100%" alt="CSDN"/>
+</a>
+
+</td>
+<td width="50%">
+
+<h3>📈 Contribution Calendar</h3>
+
+<!-- GitHub 3D Contribution Calendar -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guojin-yan/guojin-yan/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guojin-yan/guojin-yan/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guojin-yan/guojin-yan/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/guojin-yan/guojin-yan/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
----
-
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<!-- Programming Languages -->
-<h3 align="center">💻 Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,rust&theme=dark&perline=10" alt="Languages" />
-  </a>
-</p>
-
-<!-- Frameworks & Tools -->
-<h3 align="center">🚀 Frameworks & Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,pytorch,tensorflow,opencv,qt,cmake,git,github,gitlab,docker,linux,raspberrypi&theme=dark&perline=10" alt="Frameworks" />
-  </a>
-</p>
-
-<!-- IDE & Development Tools -->
-<h3 align="center">🛠️ Development Environment</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,visualstudio,pycharm,vim,anaconda,jupyter&theme=dark&perline=10" alt="IDE & Tools" />
-  </a>
-</p>
-
-<!-- Specialized Skills Tags -->
-<h3 align="center">🎯 Specialized Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="OpenVINO" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/PaddlePaddle-0062FF?style=for-the-badge&logo=paddlepaddle&logoColor=white" alt="PaddlePaddle" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
-  <img src="https://img.shields.io/badge/RT--DETR-FF6B6B?style=for-the-badge&logo=detr&logoColor=white" alt="RT-DETR" />
-  <img src="https://img.shields.io/badge/OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OCR" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-</p>
-
----
-
-<!-- Featured Projects Section -->
-<h2 align="center">⭐ Featured Projects</h2>
-
-<!-- Project Cards with Improved Layout -->
-
-<div width="100%" align="center">
-
-<!-- Row 1 -->
-<a href="https://github.com/guojin-yan/OpenVINO-CSharp-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=OpenVINO-CSharp-API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&border_radius=15" alt="OpenVINO-CSharp-API" />
-</a>
-<a href="https://github.com/guojin-yan/TensorRTSharp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=TensorRTSharp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=76B900&icon_color=76B900&border_radius=15" alt="TensorRTSharp" />
-</a>
-
-<br/><br/>
-
-<!-- Row 2 -->
-<a href="https://github.com/guojin-yan/RT-DETR-OpenVINO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=RT-DETR-OpenVINO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&border_radius=15" alt="RT-DETR-OpenVINO" />
-</a>
-<a href="https://github.com/guojin-yan/Csharp_deploy_Yolov8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_deploy_Yolov8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD21E&icon_color=FFD21E&border_radius=15" alt="Csharp_deploy_Yolov8" />
-</a>
-
-<br/><br/>
-
-<!-- Row 3 -->
-<a href="https://github.com/guojin-yan/Csharp_and_OpenVINO_deploy_PaddleOCR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_and_OpenVINO_deploy_PaddleOCR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4285F4&icon_color=4285F4&border_radius=15" alt="PaddleOCR" />
-</a>
-<a href="https://github.com/guojin-yan/Csharp_and_OpenVINO_deploy_PP-Human">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_and_OpenVINO_deploy_PP-Human&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&border_radius=15" alt="PP-Human" />
-</a>
-
-<br/><br/>
-
-<!-- Row 4 -->
-<a href="https://github.com/guojin-yan/Inference">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Inference&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9C27B0&icon_color=9C27B0&border_radius=15" alt="Inference" />
-</a>
-<a href="https://github.com/guojin-yan/Csharp_and_OpenVINO_deploy_PP-TinyPose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guojin-yan&repo=Csharp_and_OpenVINO_deploy_PP-TinyPose&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BCD4&icon_color=00BCD4&border_radius=15" alt="PP-TinyPose" />
-</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- Blog Section -->
-<h2 align="center">📝 Latest Blog Posts</h2>
-
-<!-- CSDN Blog Stats -->
-<p align="center">
-  <a href="https://blog.csdn.net/Grape_yan" target="_blank">
-    <img src="https://stats.justsong.cn/api/csdn?id=Grape_yan&theme=tokyonight" alt="CSDN Stats" />
-  </a>
-</p>
-
-<!-- CSDN-BLOG-POST-LIST:START -->
-<!-- CSDN-BLOG-POST-LIST:END -->
-
-<p align="center">
-  <i>📚 更多技术文章请关注我的 <a href="https://blog.csdn.net/Grape_yan" target="_blank">CSDN 博客</a></i>
-</p>
-
----
-
-<!-- WakaTime Stats -->
-<h2 align="center">⏱️ Coding Time Stats</h2>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- Recent Activity -->
-<h2 align="center">🔥 Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- Activity Graph -->
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guojin-yan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
-<!-- Quote Section -->
-<h2 align="center">💡 Quote of the Day</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
-</p>
-
----
-
-<!-- Footer -->
+<!-- QUICK LINKS: 快速联系 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn" width="100%"/>
+
+<h3>🔗 Connect With Me</h3>
+
+<a href="https://github.com/guojin-yan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:guojin_yjs@cumt.edu.cn">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://blog.csdn.net/Grape_yan">
+  <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white" alt="CSDN"/>
+</a>
+<a href="./image/qq.jpg">
+  <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ"/>
+</a>
+<a href="./image/wechat.png">
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D4AA,100:0077BE&section=footer&fontSize=20&fontColor=fff&animation=twinkling&text=Thanks%20for%20visiting!" width="100%"/>
+
 </div>
-
-<!-- Dynamic Footer Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/guojin-yan/count.svg" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <i>⭐ Star my repositories if you find them helpful! ⭐</i>
-</p>
-
-<!-- Social Links Footer -->
-<p align="center">
-  <a href="https://github.com/guojin-yan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:guojin_yjs@cumt.edu.cn">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://blog.csdn.net/Grape_yan" target="_blank">
-    <img src="https://img.shields.io/badge/CSDN-FC5531?style=flat-square&logo=c&logoColor=white" alt="CSDN" />
-  </a>
-</p>
