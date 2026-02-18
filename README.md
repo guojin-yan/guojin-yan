@@ -3,7 +3,7 @@
 <!-- HEADER: 立即展示身份 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Guojin%20Yan&fontSize=60&color=0:00D4AA,100:0077BE&stroke=ffffff&strokeWidth=2&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Guojin%20Yan&fontSize=70&color=0:00D4AA,50:0077BE,100:0055AA&stroke=00D4AA&strokeWidth=3&animation=twinkling&fontColor=fff&desc=C%23%20Deep%20Learning%20Inference%20Expert&descAlignY=65&descSize=25" width="100%"/>
 
 <p>
   <a href="https://git.io/typing-svg">
@@ -88,15 +88,15 @@
 
 ---
 
-<!-- 🏆 CORE PROJECTS: 丰富的项目展示 -->
+<!-- 🏆 CORE PROJECTS: 横向并排展示 -->
 <h2 align="center">🏆 Core Projects</h2>
 
 <div align="center">
 
-<!-- DeploySharp -->
-<table width="95%">
+<table>
 <tr>
-<td>
+<!-- DeploySharp -->
+<td width="33%" valign="top">
 
 <h3>
   <a href="https://github.com/guojin-yan/DeploySharp">
@@ -107,35 +107,28 @@
 <p>
   <img src="https://img.shields.io/github/stars/guojin-yan/DeploySharp?color=FF6B6B&labelColor=111&style=flat-square" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/guojin-yan/DeploySharp?color=FF6B6B&labelColor=111&style=flat-square" alt="Forks"/>
-  <img src="https://img.shields.io/github/license/guojin-yan/DeploySharp?color=FF6B6B&labelColor=111&style=flat-square" alt="License"/>
   <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&labelColor=111" alt="C#"/>
 </p>
 
-<p><b>🎯 统一的深度学习模型部署框架</b> - 支持多种推理引擎的统一部署接口</p>
+<p><b>🎯 统一的深度学习模型部署框架</b></p>
 
 **✨ Features:**
-- 🔌 支持 OpenVINO、TensorRT、ONNX Runtime 等多种推理引擎
+- 🔌 支持 OpenVINO、TensorRT、ONNX Runtime
 - 🚀 统一的模型加载和推理接口
-- 📦 支持 YOLO、ResNet、BERT 等主流模型架构
+- 📦 支持 YOLO、ResNet、BERT 等主流模型
 - 💻 跨平台支持 (Windows/Linux)
 - 📖 完善的 C# API 文档和示例
 
 <p>
   <a href="https://github.com/guojin-yan/DeploySharp">
-    <img src="https://img.shields.io/badge/View_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
+    <img src="https://img.shields.io/badge/View_Repo-FF6B6B?style=flat-square&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
   </a>
 </p>
 
 </td>
-</tr>
-</table>
-
-<br/>
 
 <!-- OpenVINO-CSharp-API -->
-<table width="95%">
-<tr>
-<td>
+<td width="33%" valign="top">
 
 <h3>
   <a href="https://github.com/guojin-yan/OpenVINO-CSharp-API">
@@ -146,36 +139,28 @@
 <p>
   <img src="https://img.shields.io/github/stars/guojin-yan/OpenVINO-CSharp-API?color=0071C5&labelColor=111&style=flat-square" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/guojin-yan/OpenVINO-CSharp-API?color=0071C5&labelColor=111&style=flat-square" alt="Forks"/>
-  <img src="https://img.shields.io/github/license/guojin-yan/OpenVINO-CSharp-API?color=0071C5&labelColor=111&style=flat-square" alt="License"/>
   <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&labelColor=111" alt="C#"/>
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&labelColor=111" alt="C++"/>
 </p>
 
-<p><b>🔌 Intel OpenVINO 的完整 C# 封装</b> - 提供高性能的深度学习推理能力</p>
+<p><b>🔌 Intel OpenVINO 的完整 C# 封装</b></p>
 
 **✨ Features:**
-- 🎯 完整的 OpenVINO C API 到 C# 的绑定
-- 🚀 支持 CPU、GPU、NPU 等多种推理设备
-- 📦 支持 PaddlePaddle、PyTorch、ONNX 等模型的部署
-- 🔧 支持自定义预处理和后处理管道
-- 📚 包含 RT-DETR、YOLO、OCR 等完整示例
+- 🎯 完整的 OpenVINO C API 到 C# 绑定
+- 🚀 支持 CPU、GPU、NPU 等多种设备
+- 📦 支持 PaddlePaddle、PyTorch、ONNX
+- 🔧 支持自定义预处理和后处理
+- 📚 包含 RT-DETR、YOLO、OCR 示例
 
 <p>
   <a href="https://github.com/guojin-yan/OpenVINO-CSharp-API">
-    <img src="https://img.shields.io/badge/View_Repository-0071C5?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
+    <img src="https://img.shields.io/badge/View_Repo-0071C5?style=flat-square&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
   </a>
 </p>
 
 </td>
-</tr>
-</table>
-
-<br/>
 
 <!-- TensorRT-CSharp-API -->
-<table width="95%">
-<tr>
-<td>
+<td width="33%" valign="top">
 
 <h3>
   <a href="https://github.com/guojin-yan/TensorRT-CSharp-API">
@@ -186,23 +171,21 @@
 <p>
   <img src="https://img.shields.io/github/stars/guojin-yan/TensorRT-CSharp-API?color=76B900&labelColor=111&style=flat-square" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/guojin-yan/TensorRT-CSharp-API?color=76B900&labelColor=111&style=flat-square" alt="Forks"/>
-  <img src="https://img.shields.io/github/license/guojin-yan/TensorRT-CSharp-API?color=76B900&labelColor=111&style=flat-square" alt="License"/>
   <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&labelColor=111" alt="C#"/>
-  <img src="https://img.shields.io/badge/Language-CUDA-76B900?style=flat-square&labelColor=111" alt="CUDA"/>
 </p>
 
-<p><b>⚡ NVIDIA TensorRT 的 C# 高性能接口</b> - 为 GPU 推理提供极致性能</p>
+<p><b>⚡ NVIDIA TensorRT 的 C# 高性能接口</b></p>
 
 **✨ Features:**
-- 🚀 基于 NVIDIA TensorRT 的高性能 GPU 推理
+- 🚀 基于 NVIDIA TensorRT 高性能 GPU 推理
 - 🎯 支持 FP16/INT8 量化加速
-- 💻 支持动态输入尺寸 (Dynamic Shape)
+- 💻 支持动态输入尺寸 Dynamic Shape
 - 🔧 提供模型优化和序列化功能
-- 📦 支持 YOLOv8、RT-DETR 等目标检测模型部署
+- 📦 支持 YOLOv8、RT-DETR 检测模型
 
 <p>
   <a href="https://github.com/guojin-yan/TensorRT-CSharp-API">
-    <img src="https://img.shields.io/badge/View_Repository-76B900?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
+    <img src="https://img.shields.io/badge/View_Repo-76B900?style=flat-square&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
   </a>
 </p>
 
