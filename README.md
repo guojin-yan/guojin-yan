@@ -197,52 +197,187 @@
 
 ---
 
-<!-- 📦 OTHER PROJECTS -->
+<!-- 📦 MODEL DEPLOYMENT PROJECTS: 折叠展示 -->
 <h2 align="center">📦 Model Deployment Projects</h2>
 
 <div align="center">
 
+<details>
+<summary><b>🎯 Click to Expand (5 More Projects)</b></summary>
+
+<br/>
+
 <table>
 <tr>
-<td width="33%" align="center">
+<!-- YOLO C# Deploy -->
+<td width="33%" valign="top">
 
-<a href="https://github.com/guojin-yan/YoloDeployCsharp">
-  <img src="https://img.shields.io/badge/YOLO-C%23_Deploy-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=111" width="95%"/>
-</a>
+<h4>
+  <a href="https://github.com/guojin-yan/YoloDeployCsharp">
+    <img src="https://img.shields.io/badge/🎯_YOLO--CSharp--Deploy-YOLO%20in%20C%23-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=111" width="100%"/>
+  </a>
+</h4>
+
+<p>
+  <img src="https://img.shields.io/github/stars/guojin-yan/YoloDeployCsharp?color=00FFFF&labelColor=111&style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/guojin-yan/YoloDeployCsharp?color=00FFFF&labelColor=111&style=flat-square" alt="Forks"/>
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&labelColor=111" alt="C#"/>
+</p>
+
+<p><b>🚀 YOLO 目标检测 C# 部署方案</b></p>
+
+**✨ Features:**
+- 🎯 支持 YOLOv5/YOLOv8/YOLOv9
+- 🔌 OpenVINO/TensorRT 双后端
+- 📦 完整的预处理/后处理
+- 💻 支持图片/视频/摄像头
+- 🖼️ 实时检测演示程序
+
+<p>
+  <a href="https://github.com/guojin-yan/YoloDeployCsharp">
+    <img src="https://img.shields.io/badge/View_Repo-00FFFF?style=flat-square&logo=github&logoColor=black&labelColor=111" alt="View Repo"/>
+  </a>
+</p>
 
 </td>
-<td width="33%" align="center">
 
-<a href="https://github.com/guojin-yan/RT-DETR-OpenVINO">
-  <img src="https://img.shields.io/badge/RT--DETR-OpenVINO-FF6B6B?style=for-the-badge&logo=detr&logoColor=white&labelColor=111" width="95%"/>
-</a>
+<!-- RT-DETR OpenVINO -->
+<td width="33%" valign="top">
+
+<h4>
+  <a href="https://github.com/guojin-yan/RT-DETR-OpenVINO">
+    <img src="https://img.shields.io/badge/🎯_RT--DETR--OpenVINO-Real--Time%20Detection-FF6B6B?style=for-the-badge&logo=detr&logoColor=white&labelColor=111" width="100%"/>
+  </a>
+</h4>
+
+<p>
+  <img src="https://img.shields.io/github/stars/guojin-yan/RT-DETR-OpenVINO?color=FF6B6B&labelColor=111&style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/guojin-yan/RT-DETR-OpenVINO?color=FF6B6B&labelColor=111&style=flat-square" alt="Forks"/>
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&labelColor=111" alt="C#"/>
+</p>
+
+<p><b>⚡ RT-DETR 实时检测 Transformer</b></p>
+
+**✨ Features:**
+- 🎯 百度飞桨 RT-DETR 模型
+- 🔌 Intel OpenVINO 加速
+- 🚀 端到端检测pipeline
+- 📊 mAP 与速度平衡
+- 📱 支持边缘设备部署
+
+<p>
+  <a href="https://github.com/guojin-yan/RT-DETR-OpenVINO">
+    <img src="https://img.shields.io/badge/View_Repo-FF6B6B?style=flat-square&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
+  </a>
+</p>
 
 </td>
-<td width="33%" align="center">
 
-<a href="https://github.com/guojin-yan/PaddleOCR-OpenVINO-CSharp">
-  <img src="https://img.shields.io/badge/PaddleOCR-OpenVINO-4285F4?style=for-the-badge&logo=paddlepaddle&logoColor=white&labelColor=111" width="95%"/>
-</a>
+<!-- PaddleOCR OpenVINO -->
+<td width="33%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<h4>
+  <a href="https://github.com/guojin-yan/PaddleOCR-OpenVINO-CSharp">
+    <img src="https://img.shields.io/badge/📄_PaddleOCR--OpenVINO-OCR%20in%20C%23-4285F4?style=for-the-badge&logo=paddlepaddle&logoColor=white&labelColor=111" width="100%"/>
+  </a>
+</h4>
 
-<a href="https://github.com/guojin-yan/segment-anything-csharp">
-  <img src="https://img.shields.io/badge/Segment_Anything-C%23-9C27B0?style=for-the-badge&logo=meta&logoColor=white&labelColor=111" width="90%"/>
-</a>
+<p>
+  <img src="https://img.shields.io/github/stars/guojin-yan/PaddleOCR-OpenVINO-CSharp?color=4285F4&labelColor=111&style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/guojin-yan/PaddleOCR-OpenVINO-CSharp?color=4285F4&labelColor=111&style=flat-square" alt="Forks"/>
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&labelColor=111" alt="C#"/>
+</p>
 
-</td>
-<td width="50%" align="center">
+<p><b>📄 文字识别 OCR C# 部署</b></p>
 
-<a href="https://github.com/guojin-yan/OpenVINO_deploy_PP-YOLOE">
-  <img src="https://img.shields.io/badge/PP--YOLOE-OpenVINO-FF9800?style=for-the-badge&logo=paddlepaddle&logoColor=white&labelColor=111" width="90%"/>
-</a>
+**✨ Features:**
+- 📖 文本检测 + 文本识别
+- 🔌 OpenVINO 推理加速
+- 🌏 支持中英文多语言
+- 🎯 DBNet + CRNN/SVTR
+- 🖼️ 支持倾斜/弯曲文本
+
+<p>
+  <a href="https://github.com/guojin-yan/PaddleOCR-OpenVINO-CSharp">
+    <img src="https://img.shields.io/badge/View_Repo-4285F4?style=flat-square&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
+  </a>
+</p>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<table>
+<tr>
+<!-- Segment Anything C# -->
+<td width="50%" valign="top">
+
+<h4>
+  <a href="https://github.com/guojin-yan/segment-anything-csharp">
+    <img src="https://img.shields.io/badge/✂️_Segment--Anything--CSharp-Meta%20SAM-9C27B0?style=for-the-badge&logo=meta&logoColor=white&labelColor=111" width="100%"/>
+  </a>
+</h4>
+
+<p>
+  <img src="https://img.shields.io/github/stars/guojin-yan/segment-anything-csharp?color=9C27B0&labelColor=111&style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/guojin-yan/segment-anything-csharp?color=9C27B0&labelColor=111&style=flat-square" alt="Forks"/>
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&labelColor=111" alt="C#"/>
+</p>
+
+<p><b>✂️ Meta SAM 分割一切模型 C# 版</b></p>
+
+**✨ Features:**
+- 🎯 Meta AI Segment Anything Model
+- 🖱️ 点击/框选自动分割
+- 🔌 OpenVINO/ONNX 推理
+- 💻 交互式分割演示
+- 🖼️ 批量图像处理
+
+<p>
+  <a href="https://github.com/guojin-yan/segment-anything-csharp">
+    <img src="https://img.shields.io/badge/View_Repo-9C27B0?style=flat-square&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
+  </a>
+</p>
+
+</td>
+
+<!-- PP-YOLOE OpenVINO -->
+<td width="50%" valign="top">
+
+<h4>
+  <a href="https://github.com/guojin-yan/OpenVINO_deploy_PP-YOLOE">
+    <img src="https://img.shields.io/badge/🎯_PP--YOLOE--OpenVINO-Paddle%20Detection-FF9800?style=for-the-badge&logo=paddlepaddle&logoColor=white&labelColor=111" width="100%"/>
+  </a>
+</h4>
+
+<p>
+  <img src="https://img.shields.io/github/stars/guojin-yan/OpenVINO_deploy_PP-YOLOE?color=FF9800&labelColor=111&style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/guojin-yan/OpenVINO_deploy_PP-YOLOE?color=FF9800&labelColor=111&style=flat-square" alt="Forks"/>
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&labelColor=111" alt="C#"/>
+</p>
+
+<p><b>🚀 百度 PP-YOLOE 目标检测</b></p>
+
+**✨ Features:**
+- 🎯 PP-YOLOE 实时检测模型
+- 🔌 Intel OpenVINO 优化
+- 📊 高精度/SOTA 性能
+- 🎛️ 支持模型量化
+- 🏭 工业级检测方案
+
+<p>
+  <a href="https://github.com/guojin-yan/OpenVINO_deploy_PP-YOLOE">
+    <img src="https://img.shields.io/badge/View_Repo-FF9800?style=flat-square&logo=github&logoColor=white&labelColor=111" alt="View Repo"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</details>
 
 </div>
 
